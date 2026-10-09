@@ -2,23 +2,26 @@
 
 <img src="https://raw.githubusercontent.com/Noxsentra/.github/main/assets/noxsentra-banner.svg" width="100%" alt="Noxsentra — Cybersecurity, AI Security and Threat Intelligence" />
 
-# NOXSENTRA
-### Cybersecurity Research · AI Security · Emerging-Threat Intelligence
+### CYBERSECURITY / AI SECURITY / INTELLIGENCE
 
-**Investigate the unknown. Validate the evidence. Engineer the defense.**
+**<span style="color:#58E6FF">OBSERVE THE SIGNAL. VERIFY THE THREAT. ENGINEER THE DEFENSE.</span>**
 
 A security research initiative developed within **[Magnexis](https://github.com/Magnexis)**.
 
-[![Research](https://img.shields.io/badge/Focus-Threat_Intelligence-111827?style=for-the-badge)](https://github.com/Noxsentra)
-[![AI Security](https://img.shields.io/badge/Focus-AI_Security-16324F?style=for-the-badge)](#ai-and-agent-security)
-[![Disclosure](https://img.shields.io/badge/Policy-Responsible_Disclosure-176A62?style=for-the-badge)](https://github.com/Noxsentra/.github/blob/main/SECURITY.md)
-[![Stage](https://img.shields.io/badge/Stage-Early_Research-444B5A?style=for-the-badge)](#organization-status)
+[![Research](https://img.shields.io/badge/THREAT-INTELLIGENCE-0B172B?style=for-the-badge&logoColor=white)](https://github.com/Noxsentra)
+[![AI Security](https://img.shields.io/badge/AI-SECURITY-153457?style=for-the-badge&logoColor=white)](#ai-and-agent-security)
+[![Disclosure](https://img.shields.io/badge/RESPONSIBLE-DISCLOSURE-1777AD?style=for-the-badge&logoColor=white)](https://github.com/Noxsentra/.github/blob/main/SECURITY.md)
+[![Stage](https://img.shields.io/badge/STATUS-RESEARCH_INITIATIVE-2B496C?style=for-the-badge&logoColor=white)](#organization-status)
 
-[Research domains](#research-domains) · [How we work](#our-research-method) · [Development directions](#development-directions) · [Collaborate](#collaboration) · [Security policy](https://github.com/Noxsentra/.github/blob/main/SECURITY.md)
+[Research domains](#research-domains) · [Research method](#our-research-method) · [Development directions](#development-directions) · [Collaboration](#working-with-noxsentra) · [Security policy](https://github.com/Noxsentra/.github/blob/main/SECURITY.md)
 
 </div>
 
 ---
+
+## ◈ / MISSION CONTROL
+
+**SIGNAL → EVIDENCE → INTELLIGENCE → DEFENSE**
 
 ## A research-driven approach to digital security
 
@@ -31,7 +34,7 @@ Our guiding principle is simple: **a compelling hypothesis is not evidence; an a
 > **What we are:** an early-stage cybersecurity, AI security, and threat-intelligence research initiative under Magnexis.  
 > **What we are not claiming:** a staffed 24/7 SOC, accredited testing laboratory, established commercial threat feed, certified security consultancy, or legally incorporated subsidiary. See [organization status](#organization-status).
 
-## Research domains
+## ◈ / RESEARCH DOMAINS
 
 <table>
 <tr><td width="50%" valign="top">
@@ -86,6 +89,8 @@ Turning findings into tools and repeatable security workflows:
 </td></tr>
 </table>
 
+## ◈ / RESEARCH PROTOCOL
+
 ## Our research method
 
 We favor transparent, constrained methods that another qualified researcher can inspect and challenge.
@@ -130,6 +135,8 @@ We favor transparent, constrained methods that another qualified researcher can 
 
 We distinguish an observed technical condition from its possible exploitability, and possible exploitability from confirmed real-world exploitation. Confidence should reflect evidence—not the fluency of an analysis.
 
+## ◈ / DEVELOPMENT SYSTEMS
+
 ## Development directions
 
 These are **research and engineering directions**, not a list of deployed production services.
@@ -170,6 +177,8 @@ Potential utilities for metadata validation, threat-data hygiene, dependency ass
 
 </details>
 
+## ◈ / ENGINEERING DOCTRINE
+
 ## Engineering principles
 
 1. **Authorization first.** Do not touch systems, accounts, or networks without appropriate permission.
@@ -180,6 +189,8 @@ Potential utilities for metadata validation, threat-data hygiene, dependency ass
 6. **Secure disclosure.** Protect affected users and coordinate privately when a finding is sensitive.
 7. **Practical defense.** Prefer actionable mitigations over sensational claims.
 8. **Research transparency.** Make uncertainty, assumptions, and scope visible.
+
+## ◈ / COLLABORATION
 
 ## Working with Noxsentra
 
@@ -202,6 +213,8 @@ Potential utilities for metadata validation, threat-data hygiene, dependency ass
 
 **Please do not submit:** credentials, private user data, unauthorized scans, active exploitation instructions targeting third parties, confidential incident records, or raw malicious payloads into public GitHub issues.
 
+## ◈ / DISCLOSURE
+
 ## Responsible vulnerability disclosure
 
 We welcome good-faith reports affecting **Noxsentra-controlled code**. First check the impacted repository for its own security policy or enabled **private vulnerability reporting** option. Do not disclose actionable vulnerabilities or sensitive reproduction details through a public issue.
@@ -209,6 +222,8 @@ We welcome good-faith reports affecting **Noxsentra-controlled code**. First che
 Our policy does **not** authorize security testing against third-party systems, Magnexis projects, or infrastructure not explicitly in scope. We do not currently advertise a bug bounty, guaranteed response time, or legal safe harbor beyond applicable written program terms.
 
 Read **[SECURITY.md](https://github.com/Noxsentra/.github/blob/main/SECURITY.md)** for reporting guidance.
+
+## ◈ / ORGANIZATION STATUS
 
 ## Organization status
 
@@ -223,6 +238,8 @@ Project scope, publicly available repositories, partnership arrangements, and pu
 ### Security research should be rigorous, understandable, and useful.
 
 **N O X S E N T R A**
+
+`CYBERSECURITY  /  AI SECURITY  /  INTELLIGENCE`
 
 *Investigate emerging threats. Build more secure systems.*
 
